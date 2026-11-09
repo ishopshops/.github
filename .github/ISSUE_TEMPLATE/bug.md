@@ -1,9 +1,7 @@
 ---
-name: 缺陷
+name: Bug 反馈
 about: 线上或测试环境中行为与预期不符
-title: ''
 labels: bug
-assignees: ''
 ---
 
 ## 背景

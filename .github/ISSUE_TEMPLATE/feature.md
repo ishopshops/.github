@@ -1,9 +1,7 @@
 ---
-name: 需求
+name: Feature 需求
 about: 新功能或对现有行为的改进
-title: ''
 labels: enhancement
-assignees: ''
 ---
 
 ## 背景
