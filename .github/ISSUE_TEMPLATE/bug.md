@@ -1,5 +1,5 @@
 ---
-name: 缺陷报告
+name: Bug 反馈
 about: 线上或测试环境中行为与预期不符
 labels: bug
 ---

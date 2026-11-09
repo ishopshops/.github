@@ -1,5 +1,5 @@
 ---
-name: 功能需求
+name: Feature 需求
 about: 新功能或对现有行为的改进
 labels: enhancement
 ---
