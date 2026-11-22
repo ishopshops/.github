@@ -1,7 +1,7 @@
 ---
 name: Feature 需求
 about: 新功能或对现有行为的改进
-labels: enhancement
+type: Feature
 ---
 
 ## 背景
